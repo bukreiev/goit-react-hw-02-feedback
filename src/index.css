@@ -1,4 +1,9 @@
-@import-normalize; /* bring in normalize.css styles */
+@import-normalize;
+@import url(/src/components/Section/Section.module.css);
+@import url(/src/components/FeedbackOptions/FeedbackOptions.module.css);
+@import url(/src/components/Button/button.module.css);
+@import url(/src/components/Statistics/Statistics.module.css);
+@import url(/src/components/Notification/Notification.module.css);
 
 body {
   margin: 0;
@@ -7,9 +12,35 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url(/public/background.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-y: 50%;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+}
+
+.main__title {
+  background-color: #544235;
+  color: #fff3e8;
+  opacity: 0.95;
+  text-align: center;
+  font-size: 48px;
+  font-style: italic;
+  border-radius: 20px;
+  padding: 10px 20px;
+  box-shadow: 2px -1px 22px 0px rgba(255, 255, 255, 1);
+  margin-bottom: 30px;
+  
+}
+

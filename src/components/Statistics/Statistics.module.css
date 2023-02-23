@@ -1,0 +1,22 @@
+.list {
+    margin: 0;
+    list-style: none;
+}
+
+.item {
+color: #fff3e8;
+    text-align: center;
+    font-size: 28px;
+    font-style: normal;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}
+
+.value {
+    margin: 0;
+    margin-left: 15px;
+}

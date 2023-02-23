@@ -1,0 +1,26 @@
+.controls__bnt {
+    width: 90px;
+    height: 35px;
+    background-color: #fff3e7c2;
+    border: 2px solid #b19e8b;
+    color: #544235;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 1px 2px 5px -1px rgba(0, 0, 0, 0.75);
+    margin-right: 20px;
+    padding: 0;
+    font-size: 18px;
+    font-weight: bold;
+    
+}
+
+.controls__bnt:hover {
+    background-color: #544235;
+    border: 1px solid #fff3e8;
+    color: #fff3e8c2;
+}
+
+.controls__bnt:last-child {
+    margin-right: 0;
+}

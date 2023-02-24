@@ -20,3 +20,13 @@ color: #fff3e8;
     margin: 0;
     margin-left: 15px;
 }
+
+.item:first-child
+.value {
+    color: #1fa034;
+}
+
+.item:nth-child(3)
+.value {
+    color: #e94925;
+}

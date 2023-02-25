@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.d63f54df.css",
-    "main.js": "/react-homework-template/static/js/main.eaaab440.js",
-    "static/media/background.jpeg": "/react-homework-template/static/media/background.f6c41fd918eb399c1e5c.jpeg",
-    "index.html": "/react-homework-template/index.html",
-    "main.d63f54df.css.map": "/react-homework-template/static/css/main.d63f54df.css.map",
-    "main.eaaab440.js.map": "/react-homework-template/static/js/main.eaaab440.js.map"
+    "main.css": "//bukreiev.github.io/goit-react-hw-02-feedback/static/css/main.c7fac400.css",
+    "main.js": "//bukreiev.github.io/goit-react-hw-02-feedback/static/js/main.eaaab440.js",
+    "static/media/background.jpeg": "//bukreiev.github.io/goit-react-hw-02-feedback/static/media/background.f6c41fd918eb399c1e5c.jpeg",
+    "index.html": "//bukreiev.github.io/goit-react-hw-02-feedback/index.html",
+    "main.c7fac400.css.map": "//bukreiev.github.io/goit-react-hw-02-feedback/static/css/main.c7fac400.css.map",
+    "main.eaaab440.js.map": "//bukreiev.github.io/goit-react-hw-02-feedback/static/js/main.eaaab440.js.map"
   },
   "entrypoints": [
-    "static/css/main.d63f54df.css",
+    "static/css/main.c7fac400.css",
     "static/js/main.eaaab440.js"
   ]
 }
